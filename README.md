@@ -56,7 +56,7 @@ movie-recommendation-system/
 git clone https://github.com/Rajaprabu9488/movie-recommendation-system.git
 cd movie-recommendation-system
 
-### 2. Run the recommendation script:
+### **2. Run the recommendation script:**
 ```bash
 python movie_recommender.py
 
