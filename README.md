@@ -26,10 +26,8 @@ A machine learning-based movie recommendation system that suggests movies to use
 ## 📂 Project Structure
 movie-recommendation-system/
 │
-├── dataset/
-│ └── movies.csv # Movie dataset
-├── movie_recommender.py # Main Python script
-└── README.md # Project documentation
+├── movie_recommender.py
+└── README.md
 
 ---
 
