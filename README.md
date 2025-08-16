@@ -59,7 +59,7 @@ cd movie-recommendation-system
 ### 2. Run the recommendation script:
 python movie_recommender.py
 
-### Output:
+### Example Output:
 your movie is founded : karate kid: legends
 recommended for u:
 1   snow white
