@@ -44,7 +44,7 @@ movie-recommendation-system/
 
 ## 🔍 How It Works
 1. Load and preprocess the dataset.
-2. Convert textual features into numerical vectors using **TF-IDF** or **CountVectorizer**.
+2. Convert textual features into numerical vectors using **TF-IDF**.
 3. Apply **K-Means clustering** to group similar movies.
 4. For a given movie, find the cluster it belongs to and recommend other movies from the same cluster.
 
@@ -57,9 +57,11 @@ git clone https://github.com/Rajaprabu9488/movie-recommendation-system.git
 cd movie-recommendation-system
 
 ### 2. Run the recommendation script:
+```bash
 python movie_recommender.py
 
 ### Example Output:
+```bash
 your movie is founded : karate kid: legends
 recommended for u:
 1   snow white
